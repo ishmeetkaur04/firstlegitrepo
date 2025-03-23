@@ -1,0 +1,7 @@
+
+ hello
+ ishmeet here
+ .log
+ .env
+ node_modules/
+
